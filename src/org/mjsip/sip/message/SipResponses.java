@@ -45,7 +45,7 @@ public class SipResponses {
 			case 199 : return "Early Dialog Terminated";
 			
 			// 2xx Successful
-			case 200 : return "OK";
+			case 200 : return "Okej";
 			case 202 : return "Accepted (Deprecated)";
 			case 204 : return "No Notification";
 			
